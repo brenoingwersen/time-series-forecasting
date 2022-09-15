@@ -1,5 +1,5 @@
 
-# Energy Consumption
+# Energy Consumption:electric_plug:
 Time series forecasting with Python using the XGBoost Regressor to predict hourly energy consumption.
 
 **Project Status: Active**
