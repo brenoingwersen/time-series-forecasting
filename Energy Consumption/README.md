@@ -37,3 +37,6 @@ The <a href="https://www.kaggle.com/datasets/robikscube/hourly-energy-consumptio
 - Add new features
 - Hyperparameters tunning
 - Try other ML models
+
+## Featured Notebooks
+- <a href="https://github.com/brenoingwersen/time-series-forecasting/blob/main/Energy%20Consumption/XGBoost_version1.ipynb">time-series-forecasting/Energy Consumption/XGBoost_version1</a>
