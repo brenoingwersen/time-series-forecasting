@@ -9,7 +9,11 @@ This is a Github repository for projects created under the subject of ***Time Se
 
 ## Featured Projects:triangular_flag_on_post:
 (*Detailed README on each projects' main folder*)
-- <a href="https://github.com/brenoingwersen/time-series-forecasting/tree/main/Energy%20Consumption">Energy Consumption</a>
+- <a href="https://github.com/brenoingwersen/time-series-forecasting/tree/main/Energy%20Consumption">Energy Consumption</a>\
+Predict energy consumption on Kaggle dataset using XGBoost.
+
+- <a href="https://github.com/brenoingwersen/time-series-forecasting/tree/main/Predicting%20Slip%20to%20Slip%20Connection">Slip to Slip Connection Prediction</a>\
+Time Series mock project for an O&G company to predict if the slip is connected based on dummy data.
 
 ## Needs of this Repository:wrench:
 
